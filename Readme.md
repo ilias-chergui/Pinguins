@@ -1,6 +1,6 @@
 # 1er exercice
-Image comprennant:
-==================
+__Image comprennant:__
+
 * Image Keep Calm
 * Image pinguin **Goku**
 Je ne sais pas si ça a fonctionné...

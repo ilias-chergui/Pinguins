@@ -1,2 +1,0 @@
-# Pinguins
-exo pingiun

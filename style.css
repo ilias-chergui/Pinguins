@@ -1,0 +1,32 @@
+body {
+  background-color: rgba(0, 81, 177, 0.93);
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+  text-align: center;
+  padding: 0;
+}
+
+.wrapper {
+  margin: 10px auto;
+  max-width: 300px;
+  padding: 30px;
+  border: 20px double rgba(112, 112, 112, 0.93);
+  border-radius: 200px;
+}
+.wrapper:Hover {
+  background: #cc5706;
+}
+
+h1 {
+  font-size: 50px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: normal;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+h1 span {
+  display: block;
+  font-size: 50%;
+}

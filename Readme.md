@@ -1,8 +1,5 @@
 # 1er exercice
-
+--------------
 Image comprennant:
------------------
-
-
 *Image Keep Calm
-** Image pinguin
+*Image pinguin **Goku**
